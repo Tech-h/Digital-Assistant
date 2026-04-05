@@ -8,7 +8,7 @@ Developing a voice activated AI assistant in Python using Ollama for LLM inferen
     Built modularly in Python, easily change out the different parts to customize.
 * **Frontend:** 
     SvelteKit + Vite for a real-time reactive dashboard.
-* **Networking** 
+* **Networking:** 
     Secure, zero-config access across devices via **Tailscale**.
 
 ## Tech Stack
