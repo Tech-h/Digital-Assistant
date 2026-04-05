@@ -1,0 +1,13 @@
+{
+  "files": [],
+  "compilerOptions": {
+    // This allows the root to act as a project coordinator
+    "composite": true,
+    "declaration": true,
+    "declarationMap": true
+  },
+  "references": [
+    { "path": "./tsconfig.app.json" },
+    { "path": "./tsconfig.node.json" }
+  ]
+}
