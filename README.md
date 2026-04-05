@@ -88,16 +88,17 @@ remember them for the next interaction at any other time.
 * Allow for the assistant to be interrupted mid-sentence by the user. 
 * Show the users spoken sentences as a text-prompt within the history as well, rather than just the LLMs outputs and written user inputs.
 * Test out different llms and test which one responds the best to a series of tests for my specific project requirements.
+* Update the assistant to have a more natural sounding voice.
 
 ### Possible Updates
-* * Implement social-emotional intelligence. Meaning the assistant can now know how the user is feeling or how they spoke to the assistant or anyone else.
+* Implement social-emotional intelligence. Meaning the assistant can now know how the user is feeling or how they spoke to the assistant or anyone else.
 The goal is for the assistant to be able to use these data points to process the conversation on a higher level, creating a faux understanding similar to
 a humans.
     * Detects emotions with a small modal. 
     * Detects volume. 
     * Detects speech length.
     * Hesitency / uncertaincy (uh, umm, maybe... like)
-*Implement an audio classification model to detect non voiced sounds, which should help build context awareness around what the user is currently doing. As well as a visual model to process camera data, where the linkage of on video data and audio data should help the assistant build a conceptual understanding of what it views in terms of generating a timeline of events. 
+* Implement an audio classification model to detect non voiced sounds, which should help build context awareness around what the user is currently doing. As well as a visual model to process camera data, where the linkage of on video data and audio data should help the assistant build a conceptual understanding of what it views in terms of generating a timeline of events. 
 * For the metadata in the vector-memory database, the contents of which will include salience (how much a memory stands out) scores and emotional data for creating a hierarchical memory organization process to mimic how human's draw upon thier own memories.
 
 ## License
