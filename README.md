@@ -1,5 +1,5 @@
 
-![alt text](/docs/image.png)
+![alt text](/docs/image2.png)
 # Digital Assistant
 Developing a voice activated AI assistant in Python using Ollama for LLM inference, featuring conversational memory, and an integrated speech recognition/text-to-speech pipeline. Implemented a custom event bus for decoupled, modular communication between components. Accessible via the Svelte web frontend interface hosted on personal Linux server, accessible across devices via private Tailscale network. 
 
