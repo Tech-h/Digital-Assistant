@@ -38,7 +38,7 @@ pip install -r requirements.txt
 ## Voce Synthesis (Piper-TTS)
 This project uses **Piper** for fast, local, and private text-to-speech synthesis. It was chose for being lightweight as a precaution initial during development, but will be replaced with a more naturally sounding TTS in a future update. 
 
-Its recommended to obtain the voices from **Hugging Face*** and to place them into the /data/source_models folder
+Its recommended to obtain the voices from **Hugging Face** and to place them into the /data/source_models folder
 
 ```bash
 https://huggingface.co/rhasspy/piper-voices/tree/main
